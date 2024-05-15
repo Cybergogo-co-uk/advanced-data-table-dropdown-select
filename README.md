@@ -1,0 +1,1 @@
+The Advanced Data Table with Dropdown Select is a React-based custom component for Adalo. It displays data in a responsive table format with selectable rows using dropdowns. Perfect for managing detailed data entries and user interactions within Adalo apps, it enhances data visualization and user experience through dynamic and interactive elements.
