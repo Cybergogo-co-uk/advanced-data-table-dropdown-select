@@ -1,0 +1,28 @@
+{
+  "name": "advancedtablev4",
+  "description": "",
+  "version": "4.0.0",
+  "main": "index.js",
+  "license": "ISC",
+  "author": "Konstantinos Pap",
+  "scripts": {
+    "start": "adalo dev",
+    "dev": "react-scripts start",
+    "login": "adalo login",
+    "publish": "adalo publish"
+  },
+  "devDependencies": {
+    "@adalo/cli": "^0.0.60",
+    "react": "^16.9.0",
+    "react-art": "^16.6.0",
+    "react-dom": "^16.9.0",
+    "react-native-web": "^0.9.5"
+  },
+  "dependencies": {
+    "@uidotdev/usehooks": "^2.4.1",
+    "react-indiana-drag-scroll": "^2.2.0",
+    "react-select": "^5.8.0",
+    "react-tooltip": "^5.26.3",
+    "reactjs-popup": "^2.0.6"
+  }
+}
